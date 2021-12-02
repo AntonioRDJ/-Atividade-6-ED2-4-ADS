@@ -1,0 +1,16 @@
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\bin\Debug\net5.0\projetoMedicamento.exe
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\bin\Debug\net5.0\projetoMedicamento.deps.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\bin\Debug\net5.0\projetoMedicamento.runtimeconfig.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\bin\Debug\net5.0\projetoMedicamento.runtimeconfig.dev.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\bin\Debug\net5.0\projetoMedicamento.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\bin\Debug\net5.0\ref\projetoMedicamento.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\bin\Debug\net5.0\projetoMedicamento.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.csproj.AssemblyReference.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.AssemblyInfoInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.AssemblyInfo.cs
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.csproj.CoreCompileInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\ref\projetoMedicamento.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\projetoMedicamento\projetoMedicamento\obj\Debug\net5.0\projetoMedicamento.genruntimeconfig.cache
